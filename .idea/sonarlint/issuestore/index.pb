@@ -18,3 +18,5 @@ F
 calculadora.properties,e/f/ef7993ce996c034e52a208332e92b71b74794e79
 H
 sonar-project.properties,2/5/2538046035efb77ecc44e1fd2eec1e2641594d4c
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0

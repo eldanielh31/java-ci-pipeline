@@ -4,7 +4,7 @@ addons:
   sonarcloud:
     organization: "eldanielh31"
     token:
-      secure: "eaa10a8a3bd0b22ca1e5902226e6fa05b23c3003"
+      secure: "9664aafa9ff071641ffe1b81a9a06238ec728188"
 
 script:
   - ant dist
