@@ -2,7 +2,7 @@ addons:
   sonarcloud:
     organization: "eldanielh31"
     token:
-      secure: "71ac7593160da62251b49eb89e8357b88f21c382"
+      secure: "f5b4602b1be3627ffe10a9ae7a11260904faaabc"
 
 language: java
 script:
