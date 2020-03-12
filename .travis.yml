@@ -4,7 +4,7 @@ addons:
   sonarcloud:
     organization: "eldanielh31"
     token:
-      secure: "9664aafa9ff071641ffe1b81a9a06238ec728188"
+      secure: "aTeeHnHUdGil+sR91oMcwSTbjpCw9xWAw9lhwDTHYQtSb/q/Ncn2N9ilXqo2a4ApmWRlfNJwYrw4vCzulR2kZbY8VYvYtnPaGoaFTQftVvD86zMDjMYTDr+7byvMBXCJy8Iz7l8tcxQt23NIrYUa+WKV4PTX+xSf+wsA+YHt8w7UNuLSUqI24UGFWY9tV9s1tSKSae9ZIswIRlnWcaKNYHlMKzNhO9EKR2pe5E2W9bgy0VNoSkHHXkmqzl6uGLj0sLG1yz7sY0y95tvVKlWmmpcjvU7z1PbQa1iNBXNyU2O7u7n0umq1NR1wlJ6YUuiva15RzdBfChk5mi+nOPyfuzuQgwGFx4yrDq2dzwIms2k9fG/0XjcbXzkwMShR5qY7dsk+4efNpv5siSfhOyxnsRtpp9mDkg2F8Vb2Cr6h33CPlUB/46jgx+CUP0MXdSFsSQxLQ3fFk3QSuCWLn1Nu4jRYIf2RiM5LL5d0hw6WVdg7FBEygyZx6OOJCdggsBZgwKpFC/vlvOlmyL2gcr9S+T58kZvMelAjo9G0BoRqNHYEXrsoGe+4X3o7ODpns34xa5CbBi6ubs8oNHLqDUPbC4dvsH6c4rP5ekSp9kdBQ2skvJlvZ5JCFOBOvHESSSX/xX5QpSyQaAIF+C4S5gymh7UCpyeOOwSuqLKb2u7JrtE="
 
 script:
   - ant dist
