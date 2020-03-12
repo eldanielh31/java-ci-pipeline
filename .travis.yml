@@ -1,10 +1,11 @@
+language: java
+
 addons:
   sonarcloud:
     organization: "eldanielh31"
     token:
       secure: "f5b4602b1be3627ffe10a9ae7a11260904faaabc"
 
-language: java
 script:
   - ant dist
   - sonar-scanner
